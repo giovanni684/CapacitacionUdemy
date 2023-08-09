@@ -8,7 +8,7 @@ public class EjemploStringMetodos {
         System.out.println("nombre.equals(\"Giovanni\") = " + nombre.equals("Giovanni"));
         System.out.println("nombre.equals(\"giovanni\") = " + nombre.equals("giovanni"));
         System.out.println("nombre.equals(\"giovanni\") = " + nombre.equalsIgnoreCase("giovanni"));
-        System.out.println("nombre.equals(\"giovanni\") = " + nombre.compareTo("Giovanni"));
+        System.out.println("nombre.compareTo(\"giovanni\") = " + nombre.compareTo("giovanni"));
         System.out.println("nombre.equals(\"giovanni\") = " + nombre.charAt(0));
         System.out.println("nombre.equals(\"giovanni\") = " + nombre.charAt(5));
         System.out.println("nombre.charAt(nombre.length()-1)) = " + nombre.charAt(nombre.length()-1));
